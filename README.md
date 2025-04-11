@@ -1,4 +1,4 @@
-# Assignment 1 – Nationality Predictor using Nationalize.io API
+# Nationality Predictor using Nationalize.io API
 
 ## Group Members:
 - Amro Al-Deek (1221642)
