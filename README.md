@@ -15,7 +15,7 @@ This project predicts the nationality of a person using their name. We use the f
 ## APIs Used:
 - Nationalize.io
 - RestCountries
-- Chart.js (via CDN)
+- Chart.js
 
 ## Technologies Used:
 - HTML/CSS
