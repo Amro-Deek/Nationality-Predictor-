@@ -25,7 +25,7 @@ This project predicts the nationality of a person using their name. We use the f
 ### 📝 Note
 
 This project proudly integrates open RESTful APIs — but with a purposeful touch.  
-As a digital expression of **Palestinian identity**, we’ve chosen to **filter out results that include the Israeli occupation** (`IL` code) from the Nationalize.io API response.🇵🇸
+As a digital expression of **Palestinian identity**, we’ve chosen to **filter out results that include the Israeli occupation** (`IL` code) from the Nationalize.io API response.
 
 > حذفنا أي ظهور لـ "الكيان" في نتائج التطبيق.  
-> إحنا بنبرمج، بس كمان بنحكي موقف.🇵🇸
+> إحنا بنبرمج، بس كمان بنحكي موقف.**[Palestinian Flag]**
