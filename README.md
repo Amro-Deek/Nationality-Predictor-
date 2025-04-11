@@ -28,4 +28,5 @@ This project proudly integrates open RESTful APIs — but with a purposeful touc
 As a digital expression of **Palestinian identity**, we’ve chosen to **filter out results that include the Israeli occupation** (`IL` code) from the Nationalize.io API response.
 
 > حذفنا أي ظهور لـ "الكيان" في نتائج التطبيق.  
-> إحنا بنبرمج، بس كمان بنحكي موقف.**[Palestinian Flag]**
+> إحنا بنبرمج، بس كمان بنحكي موقف.![Palestinian Flag](https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg)
+
