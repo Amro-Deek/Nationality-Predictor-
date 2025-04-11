@@ -1,0 +1,22 @@
+
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  background: #f9f9f9;
+}
+
+input, button {
+  padding: 10px;
+  margin: 10px 0;
+  font-size: 16px;
+}
+
+.result {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.result img {
+  margin-right: 10px;
+}
